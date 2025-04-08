@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          How to deploy in vercel
+          How to deploy in vercel show me more
         </a>
       </header>
     </div>
